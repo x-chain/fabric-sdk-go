@@ -11,9 +11,9 @@ import (
 	time "time"
 
 	gomock "github.com/golang/mock/gomock"
-	fab "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	tls0 "github.com/hyperledger/fabric-sdk-go/pkg/core/config/comm/tls"
-	metrics "github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/metrics"
+	fab "github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	tls0 "github.com/x-chain/fabric-sdk-go/pkg/core/config/comm/tls"
+	metrics "github.com/x-chain/fabric-sdk-go/pkg/fabsdk/metrics"
 )
 
 // MockEndpointConfig is a mock of EndpointConfig interface

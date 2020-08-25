@@ -8,7 +8,7 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	api "github.com/hyperledger/fabric-sdk-go/pkg/msp/api"
+	api "github.com/x-chain/fabric-sdk-go/pkg/msp/api"
 )
 
 // MockCAClient is a mock of CAClient interface

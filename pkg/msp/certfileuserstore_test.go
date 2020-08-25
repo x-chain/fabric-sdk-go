@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/msp"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/msp"
 	"github.com/pkg/errors"
 )
 

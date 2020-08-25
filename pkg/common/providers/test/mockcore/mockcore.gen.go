@@ -8,7 +8,7 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	core "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
+	core "github.com/x-chain/fabric-sdk-go/pkg/common/providers/core"
 )
 
 // MockCryptoSuiteConfig is a mock of CryptoSuiteConfig interface

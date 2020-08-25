@@ -14,10 +14,10 @@ import (
 
 	"strings"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/config"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/mocks"
-	"github.com/hyperledger/fabric-sdk-go/test/metadata"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/core"
+	"github.com/x-chain/fabric-sdk-go/pkg/core/config"
+	"github.com/x-chain/fabric-sdk-go/pkg/core/mocks"
+	"github.com/x-chain/fabric-sdk-go/test/metadata"
 	"github.com/stretchr/testify/assert"
 )
 

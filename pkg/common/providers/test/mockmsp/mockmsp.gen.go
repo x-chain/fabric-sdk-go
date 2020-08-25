@@ -8,8 +8,8 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	msp "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/msp"
-	tls "github.com/hyperledger/fabric-sdk-go/pkg/core/config/comm/tls"
+	msp "github.com/x-chain/fabric-sdk-go/pkg/common/providers/msp"
+	tls "github.com/x-chain/fabric-sdk-go/pkg/core/config/comm/tls"
 )
 
 // MockIdentityConfig is a mock of IdentityConfig interface

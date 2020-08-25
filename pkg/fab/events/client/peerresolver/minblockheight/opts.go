@@ -7,11 +7,11 @@ SPDX-License-Identifier: Apache-2.0
 package minblockheight
 
 import (
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/options"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/context"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/client/lbp"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/client/peerresolver"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/options"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/context"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/x-chain/fabric-sdk-go/pkg/fab/events/client/lbp"
+	"github.com/x-chain/fabric-sdk-go/pkg/fab/events/client/peerresolver"
 )
 
 const (

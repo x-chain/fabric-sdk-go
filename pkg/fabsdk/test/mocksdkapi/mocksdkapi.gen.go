@@ -8,10 +8,10 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	options "github.com/hyperledger/fabric-sdk-go/pkg/common/options"
-	core "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
-	fab "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	msp "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/msp"
+	options "github.com/x-chain/fabric-sdk-go/pkg/common/options"
+	core "github.com/x-chain/fabric-sdk-go/pkg/common/providers/core"
+	fab "github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	msp "github.com/x-chain/fabric-sdk-go/pkg/common/providers/msp"
 )
 
 // MockCoreProviderFactory is a mock of CoreProviderFactory interface

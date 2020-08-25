@@ -7,8 +7,8 @@ SPDX-License-Identifier: Apache-2.0
 package mocks
 
 import (
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/mocks"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/x-chain/fabric-sdk-go/pkg/fab/mocks"
 )
 
 /**

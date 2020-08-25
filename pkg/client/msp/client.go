@@ -18,14 +18,14 @@ package msp
 import (
 	"fmt"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
 
 	"strings"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/context"
-	mspctx "github.com/hyperledger/fabric-sdk-go/pkg/common/providers/msp"
-	"github.com/hyperledger/fabric-sdk-go/pkg/msp"
-	mspapi "github.com/hyperledger/fabric-sdk-go/pkg/msp/api"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/context"
+	mspctx "github.com/x-chain/fabric-sdk-go/pkg/common/providers/msp"
+	"github.com/x-chain/fabric-sdk-go/pkg/msp"
+	mspapi "github.com/x-chain/fabric-sdk-go/pkg/msp/api"
 	"github.com/pkg/errors"
 )
 

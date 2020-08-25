@@ -11,13 +11,13 @@ import (
 	"encoding/hex"
 	"hash"
 
-	"github.com/hyperledger/fabric-sdk-go/internal/github.com/hyperledger/fabric/common/crypto"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/msp"
-	"github.com/hyperledger/fabric-sdk-go/pkg/core/mocks"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/metrics"
-	mspmocks "github.com/hyperledger/fabric-sdk-go/pkg/msp/test/mockmsp"
+	"github.com/x-chain/fabric-sdk-go/internal/github.com/hyperledger/fabric/common/crypto"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/core"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/msp"
+	"github.com/x-chain/fabric-sdk-go/pkg/core/mocks"
+	"github.com/x-chain/fabric-sdk-go/pkg/fabsdk/metrics"
+	mspmocks "github.com/x-chain/fabric-sdk-go/pkg/msp/test/mockmsp"
 
 	"strings"
 

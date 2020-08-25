@@ -7,11 +7,11 @@ SPDX-License-Identifier: Apache-2.0
 package mocks
 
 import (
-	selectopts "github.com/hyperledger/fabric-sdk-go/pkg/client/common/selection/options"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/options"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/context"
-	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
-	"github.com/hyperledger/fabric-sdk-go/pkg/fab/mocks"
+	selectopts "github.com/x-chain/fabric-sdk-go/pkg/client/common/selection/options"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/options"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/context"
+	"github.com/x-chain/fabric-sdk-go/pkg/common/providers/fab"
+	"github.com/x-chain/fabric-sdk-go/pkg/fab/mocks"
 )
 
 // MockSelectionService implements mock selection service

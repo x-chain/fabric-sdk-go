@@ -11,9 +11,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hyperledger/fabric-sdk-go/pkg/fabsdk"
-	"github.com/hyperledger/fabric-sdk-go/test/integration"
-	"github.com/hyperledger/fabric-sdk-go/test/metadata"
+	"github.com/x-chain/fabric-sdk-go/pkg/fabsdk"
+	"github.com/x-chain/fabric-sdk-go/test/integration"
+	"github.com/x-chain/fabric-sdk-go/test/metadata"
 )
 
 const (
